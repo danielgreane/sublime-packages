@@ -1,0 +1,34 @@
+{
+	"installed_packages":
+	[
+		"AngularJS",
+		"AngularJS Snippets",
+		"Chai Completions",
+		"Color Highlighter",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"Find++",
+		"GitGutter",
+		"Gulp",
+		"Handlebars",
+		"HTML Boilerplate",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"Jade",
+		"JavaScript Patterns",
+		"JavaScriptFunctionDefinition",
+		"JavaScriptNext - ES6 Syntax",
+		"JSLint",
+		"JSX",
+		"LESS",
+		"MarkdownEditing",
+		"Mocha Snippets",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SFTP",
+		"SideBarEnhancements",
+		"Stylus"
+	]
+}
